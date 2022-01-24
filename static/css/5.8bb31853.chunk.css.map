@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Dialogs/Dialogs.module.css"],"names":[],"mappings":"AAAA,wBACI,YAAa,CACb,YACJ,CAEA,6BACI,WACJ,CAEA,oDACI,UACJ","file":"5.8bb31853.chunk.css","sourcesContent":[".dialogs {\r\n    padding: 10px;\r\n    display: flex;\r\n}\r\n\r\n.dialogsItems {\r\n    width: 100px;\r\n}\r\n\r\n.dialogsItems .active {\r\n    color: gold;\r\n}"]}
